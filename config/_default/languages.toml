@@ -1,6 +1,6 @@
 [en]
     label  = "English"
-    title  = "Hugo Theme Stack"
+    title  = "xiaxa_blog"
     weight = 1
 
     [en.params.sidebar]
@@ -8,7 +8,7 @@
 
 [zh]
     label  = "简体中文"
-    title  = "Hugo 主题 Stack"
+    title  = "xiaxa_blog"
     weight = 2
 
     [zh.params.sidebar]
@@ -16,7 +16,7 @@
 
 [zh-hant-tw]
     label  = "正體中文"
-    title  = "Hugo 主題 Stack"
+    title  = "xiaxa_blog"
     weight = 3
 
     [zh-hant-tw.params.sidebar]
@@ -24,7 +24,7 @@
 
 [ja]
     label  = "日本語"
-    title  = "Hugo Theme Stack"
+    title  = "xiaxa_blog"
     weight = 4
 
     [ja.params.sidebar]
