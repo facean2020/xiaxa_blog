@@ -1,6 +1,6 @@
 [en]
     label  = "English"
-    title  = "xiaxa_blog"
+    title  = "xiaxa"
     weight = 1
 
     [en.params.sidebar]
@@ -8,7 +8,7 @@
 
 [zh]
     label  = "简体中文"
-    title  = "xiaxa_blog"
+    title  = "xiaxa"
     weight = 2
 
     [zh.params.sidebar]
@@ -16,7 +16,7 @@
 
 [zh-hant-tw]
     label  = "正體中文"
-    title  = "xiaxa_blog"
+    title  = "xiaxa"
     weight = 3
 
     [zh-hant-tw.params.sidebar]
@@ -24,7 +24,7 @@
 
 [ja]
     label  = "日本語"
-    title  = "xiaxa_blog"
+    title  = "xiaxa"
     weight = 4
 
     [ja.params.sidebar]

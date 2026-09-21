@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title>xiaxa avatar</title>
+  <desc>A simple blue avatar with the letter X.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b8def"/>
+      <stop offset="1" stop-color="#7b61ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="128" fill="url(#bg)"/>
+  <circle cx="128" cy="104" r="48" fill="#fff" opacity=".95"/>
+  <path d="M55 218c10-42 37-66 73-66s63 24 73 66" fill="#fff" opacity=".95"/>
+  <path d="m102 83 52 52m0-52-52 52" stroke="#5b72e8" stroke-width="12" stroke-linecap="round"/>
+</svg>
