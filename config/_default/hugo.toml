@@ -1,0 +1,16 @@
+baseURL                = "https://facean2020.github.io/xiaxa_blog/"
+locale                 = "zh-cn"
+title                  = "xiaxa_blog"
+# Theme i18n support
+# See i18n folder for available languages
+defaultContentLanguage = "zh"
+# Set hasCJKLanguage to true if DefaultContentLanguage is a CJK language
+# This will make .Summary and .WordCount behave correctly
+hasCJKLanguage         = true
+
+[pagination]
+    pagerSize = 3
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"

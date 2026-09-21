@@ -1,0 +1,9 @@
+baseURL = 'https://facean2020.github.io/xiaxa_blog/'
+locale = 'zh-cn'
+title = 'xiaxa_blog'
+theme = 'hugo-theme-stack'
+defaultContentLanguage = 'zh'
+hasCJKLanguage = true
+
+[pagination]
+    pagerSize = 5
