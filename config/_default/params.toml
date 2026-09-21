@@ -1,14 +1,14 @@
 mainSections   = ["post"]
 rssFullContent = true
-favicon        = "img/avatar.svg"
+favicon        = "https://github.com/facean2020.png?size=200"
 
 [footer]
     since = 2020
 
 [sidebar]
-    emoji    = "✏️"
+    emoji    = "( > _ < )"
     subtitle = "记录思考、生活与技术。"
-    avatar   = "img/avatar.svg"
+    avatar   = "https://github.com/facean2020.png?size=200"
 
 [article]
     [article.license]

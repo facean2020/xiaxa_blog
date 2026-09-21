@@ -1,15 +1,7 @@
 [[social]]
     identifier = "github"
     name       = "GitHub"
-    url        = "https://github.com/facean2020/xiaxa_blog"
-
-    [social.params]
-        icon = "brand-github"
-
-[[social]]
-    identifier = "twitter"
-    name       = "Twitter"
     url        = "https://github.com/facean2020"
 
     [social.params]
-        icon = "brand-twitter"
+        icon = "brand-github"
