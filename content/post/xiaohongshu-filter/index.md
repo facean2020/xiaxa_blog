@@ -1,6 +1,6 @@
 +++
 date = '2026-09-27T18:30:36+08:00'
-draft = true
+draft = false
 title = '小红书评论过滤开发过程经历'
 +++
 
@@ -293,3 +293,7 @@ popup 页面每次在点击 Safari 顶栏插件App图标时弹出页面。
     }],
 }
 ```
+
+## 项目地址
+
+[github.com/facean2020/XiaohonshuFiltration](https://github.com/facean2020/XiaohonshuFiltration)
